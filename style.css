@@ -1,0 +1,47 @@
+body {
+  font-family: Revalia, cursive;
+  text-align: center;
+}
+
+#un {
+  color: steelblue;
+}
+
+#deux {
+  color: violet;
+}
+
+#trois .premier {
+  color: red;
+}
+
+.gras {
+  font-weight: bold;
+}
+
+.maj {
+  font-variant: small-caps;
+}
+
+.vert {
+  color: seagreen;
+}
+
+.premier::first-letter {
+  font-size: 60px;
+}
+
+h1 {
+  text-shadow: 3px 3px 2px red;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  color: cornflowerblue;
+  font-size: 20px;
+  font-style: italic;
+}
